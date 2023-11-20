@@ -1,3 +1,7 @@
+body {
+  font-family: Helvetica;
+}
+
 header{
   background-image: url('pattern.webp');
 }
@@ -9,23 +13,25 @@ h1 {
   text-align: center;
 }
 
+span {
+  font-weight: bold;
+  color: blue;
+}
+
 .brushes h2 {
   background-color: mediumspringgreen;
-  font-family: Helvetica;
   font-size: 32px;
   color: white;
 }
 
 .frames h2 {
   background-color: lightcoral;
-  font-family: Helvetica;
   font-size: 32px;
   color: white;
 }
 
 .paint h2 {
   background-color: skyblue;
-  font-family: Helvetica;
   font-size: 32px;
   color: white;
 }
