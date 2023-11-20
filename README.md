@@ -17,7 +17,7 @@
 "Dasmoto's Arts & Crafts" is a simple, yet elegantly designed webpage showcasing various art supplies. This project was developed in line with a detailed specification document, ensuring that each element meets the predefined criteria.
 
 ## Live Demo
-View the live demo of the project here: [Dasmoto's Arts & Crafts Live Demo]([your-deployed-application-link](https://joecode22.github.io/Dasmotos-Arts-and-Crafts/))
+View the live demo of the project here: [Dasmoto's Arts & Crafts Live Demo](https://joecode22.github.io/Dasmotos-Arts-and-Crafts/)
 
 ## Features
 - **Product Sections:** Dedicated sections for Brushes, Frames, and Paint with detailed descriptions.
