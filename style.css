@@ -1,0 +1,10 @@
+header{
+  background-image: url('pattern.webp');
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
